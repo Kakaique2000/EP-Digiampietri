@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1538496512 source:c:\users\iceqti -2\desktop\chat\c\ep digimon\usalistadeprodutos.c
+	"listadeprodutos.h"
+
+1538496443 c:\users\iceqti -2\desktop\chat\c\ep digimon\listadeprodutos.c
+	"listadeprodutos.c"
+
+1538497393 source:c:\users\iceqti -2\desktop\chat\c\ep digimon\listadeprodutos.c
+	"listadeprodutos.h"
+
+1539026277 c:\users\iceqti -2\desktop\chat\c\ep digimon\listadeprodutos.h
+	<stdlib.h>
+	<stdio.h>
+
